@@ -14,7 +14,7 @@ Este proyecto forma parte del trabajo final de la asignatura **Programación** d
   - Lenguajes de Marcas (formato JSON)
   - Entornos de Desarrollo (uso de Git y GitHub)
 
-Nota: Este proyecto tiene un enfoque teórico-aplicado. El objetivo no era desarrollar el código personalmente, sino comprender cómo se integran todos los conceptos aprendidos en clase dentro de un proyecto realista, con acompañamiento y guía técnica paso a paso.
+> Proyecto desarrollado de forma guiada en clase: el objetivo era entender cómo se integran ficheros, interfaz gráfica, base de datos e hilos dentro de una misma aplicación.
 
 ## Tecnologías Utilizadas
 
